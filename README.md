@@ -1,5 +1,4 @@
 # mantuchuarasiya092-source
-Welcome to my GitHub profile
 Welcome to my GitHub profile..
 ###  Hey! I'm Mantu Kumar Chuarasiya
 
