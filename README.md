@@ -1,13 +1,13 @@
 # mantuchuarasiya092-source
 Welcome to my GitHub profile
 Welcome to my GitHub profile..
-### 👋 Hey! I'm Mantu Kumar Chuarasiya
+###  Hey! I'm Mantu Kumar Chuarasiya
 
 Welcome to my GitHub! I am from the **Department of Artificial Intelligence and Data Science**, passionate about turning raw data into intelligent, real-world solutions. 
 
 I specialize in the end-to-end data science lifecycle. I love diving deep into datasets, uncovering hidden patterns, and building robust models that drive decision-making.
 
-📊 **Technical Expertise & Data Science Focus:**
+**Technical Expertise & Data Science Focus:**
 
 *   **Data Wrangling & EDA:** Transforming messy, raw data into clean, actionable insights using Pandas, NumPy, and advanced SQL queries.
 *   **Predictive Modeling & Machine Learning:** Building, tuning, and evaluating robust ML algorithms (Regression, Classification, Clustering) using Scikit-Learn and XGBoost.
