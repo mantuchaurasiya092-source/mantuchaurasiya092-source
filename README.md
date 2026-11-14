@@ -16,4 +16,4 @@ I specialize in the end-to-end data science lifecycle. I love diving deep into d
 *   **Data Visualization:** Translating complex statistical findings into intuitive, compelling visual stories using Matplotlib, Seaborn, and PowerBI/Tableau.
 *   **Statistical Analysis:** Applying hypothesis testing and probability distributions to validate data-driven assumptions.
 
-I am always eager to collaborate on innovative AI projects, optimize data pipelines, and push the boundaries of what data can achieve. Feel free to explore my repositories or reach out to connect!..
+I am always eager to collaborate on innovative AI projects, optimize data pipelines, and push the boundaries of what data can achieve. Feel free to explore my repositories or reach out to connect......
